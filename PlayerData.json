@@ -12,6 +12,19 @@
       "Password": "PASSWORD",
       "Difficulty": "EASY",
       "Score": 0
+    },
+    
+    {
+      "UserID": 1,
+      "FamilyName": "Shamsi",
+      "FirstName": "Saboor",
+      "City": "Karachi",
+      "DisplayName": "Nazgul",
+      "WeChatID": "none",
+      "Email": "sabbatadoon@gmail.com",
+      "Password": "LORALELEMERA",
+      "Difficulty": "HARD",
+      "Score": 10
     }
   ]
 }
