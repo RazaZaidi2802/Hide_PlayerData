@@ -11,7 +11,7 @@
       "Email": "raza28feb@gmail.com",
       "Password": "PASSWORD",
       "Difficulty": "EASY",
-      "Score": 0
+      "Score": "0"
     },
     
     {
@@ -24,7 +24,7 @@
       "Email": "sabbatadoon@gmail.com",
       "Password": "LORALELEMERA",
       "Difficulty": "HARD",
-      "Score": 10
+      "Score": "10"
     }
   ]
 }
